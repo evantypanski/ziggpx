@@ -1,0 +1,3 @@
+[submodule "deps/xml"]
+	path = deps/xml
+	url = https://github.com/andrewrk/xml.git
